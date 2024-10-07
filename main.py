@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import time  # To introduce delay if needed
+import time  # To introduce delay if 
 
 # Define the base URL and the template URL for pagination
 base_url = 'https://www.reed.co.uk'
